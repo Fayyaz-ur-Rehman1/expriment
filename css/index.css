@@ -1,0 +1,55 @@
+body {
+    background-color: cyan;
+    background-image: url(Screenshot\ from\ 2022-09-23\ 10-45-59.png);
+    background-repeat: no-repeat;
+    background-position: 600px 400px;
+}
+
+header {
+    background-color: chartreuse;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+nav {
+    width: 21%;
+    float: left;
+    height: 2870px;
+    background: lightpink;
+    color: crimson;
+    padding: 20px;
+    font-size: 150px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+article {
+    float: left;
+    padding: 30px;
+    width: 60%;
+    background-color: rgb(197, 197, 43);
+    height: 2850px;
+    background-image: url(Screenshot\ from\ 2022-09-23\ 10-45-59.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 800px 400px;
+}
+
+section {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer {
+    background-color: gold;
+    padding: 10px;
+    text-align: center;
+    color: darkorchid;
+    font-size: 50px;
+}
